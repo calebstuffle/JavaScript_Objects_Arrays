@@ -46,7 +46,7 @@ Exercise Repo: [JavaScript Objects and Arrays](https://github.com/Bryantellius/J
 
 ### Exercise 3: Reverse a String
 
-You will be give a string sentence. Your task is to reverse _every word_ in the sentence. 
+You will be give a string sentence. Your task is to reverse _every word_ in the sentence.
 
 1. Start with the following code:
 
@@ -90,23 +90,23 @@ Your final result should resemble:
 
 ```js
 [
-   {
-      name: "Frodo",
-      age: 50
-   },
-   {
-      name: "Sam",
-      age: 38
-   },
-   {
-      name: "Merry",
-      age: 36
-   },
-   {
-      name: "Pippin",
-      age: 26
-   },
-]
+  {
+    name: "Frodo",
+    age: 50,
+  },
+  {
+    name: "Sam",
+    age: 38,
+  },
+  {
+    name: "Merry",
+    age: 36,
+  },
+  {
+    name: "Pippin",
+    age: 26,
+  },
+];
 ```
 
 ---
